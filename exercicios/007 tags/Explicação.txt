@@ -1,0 +1,5 @@
+Negrito, Itálico... entre outros são formas e não sêmanticas. <br> Além de estarem entrando em desuso não há uma boa <br> leitura para o site, e são formas(css) não significados(html). 
+
+ex.: 
+FORMAS= B, U, I.
+SEMÂNTICA= STRONG, EM, DEL
