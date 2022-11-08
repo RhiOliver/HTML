@@ -1,2 +1,2 @@
-# HTML
- Práticas da aulas
+# HTML & CSS
+ Práticas e anotações das aulas
